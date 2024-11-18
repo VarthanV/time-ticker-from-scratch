@@ -4,6 +4,10 @@ This program demonstrates a custom ticker implementation in Go. It is similar to
 
 ---
 
+# Background
+
+[Tickers](https://gobyexample.com/tickers)
+
 ### **Struct Definition**
 ```go
 type ticker struct {
